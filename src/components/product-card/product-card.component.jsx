@@ -10,7 +10,7 @@ const ProductCard = ({ product }) => {
     const addProductToCart = () => addItemToCart(product);
     return (
         <div className='product-card-container'>
-            <img src={imageUrl} />
+            <img src={imageUrl} alt='product' />
             <div className='footer'>
                 <span className='name'> {name} </span>
                 <span className='price'> {price} </span>
