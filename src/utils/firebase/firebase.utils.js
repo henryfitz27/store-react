@@ -22,12 +22,12 @@ import {
 } from 'firebase/firestore'
 
 const firebaseConfig = {
-    apiKey: "AIzaSyAAAWHADl8hIRc-s9ItVONr6Zu2yGHSbs8",
-    authDomain: "strore-app-ab47b.firebaseapp.com",
-    projectId: "strore-app-ab47b",
-    storageBucket: "strore-app-ab47b.appspot.com",
-    messagingSenderId: "826797035769",
-    appId: "1:826797035769:web:d273c8cfe017c7beac1228"
+    apiKey: "YOUR_API_KEY",
+    authDomain: "YOUR_AUTH_DOMAIN",
+    projectId: "YOUR_PROJECT_ID",
+    storageBucket: "YOUR_STORAGE_BUCKET",
+    messagingSenderId: "YOUR_MESSAGING_SENDER_ID",
+    appId: "YOUR_APP_ID"
 };
 
 // eslint-disable-next-line
